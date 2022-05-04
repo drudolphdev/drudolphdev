@@ -14,8 +14,7 @@ Hi there 👋 I'm Diego
   <img align="right" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-![image](https://user-images.githubusercontent.com/93336886/166746611-1591c165-fab9-44a1-b5ad-506e62dec471.png)
-Here you can find some projects I've been working on:
+
   
 - https://drudolphdev.github.io/projectBikcraft/
 - https://drudolphdev.github.io/projetoLobo/
