@@ -16,10 +16,10 @@ Hi there 👋 I'm Diego
   <img align="right" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  </div>
+</div>
 
 - Here you can find some projects I've been working on:
+  
 - https://drudolphdev.github.io/projectBikcraft/
 - https://drudolphdev.github.io/projetoLobo/
 - https://drudolphdev.github.io/web1.github.io/
