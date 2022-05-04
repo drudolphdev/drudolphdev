@@ -8,7 +8,7 @@ Hi there 👋 I'm Diego
 
 <div align="center">
   <a href="https://github.com/drudolphdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drudolphdev&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drudolphdev&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
   
