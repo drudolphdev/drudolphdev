@@ -5,8 +5,7 @@ Hi there 👋 I'm Diego
 - 👯 My goal is to act as a Business Analyst or as SCRUM Master/P.O., preferably in the banking sector.
 - 🤔 I started my professional career in IT in 1995, in 1997 I founded 2 small firms in IT. I've been working since 2000 in banking business in Brazil and in 5 European countries as a team leader.
 - 📫 You can find me on LinkedIn. https://www.linkedin.com/in/drudolphdev/
--  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
 - Here you can find some projects I've been working on:
 - https://drudolphdev.github.io/projectBikcraft/
 - https://drudolphdev.github.io/projetoLobo/
