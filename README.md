@@ -6,6 +6,17 @@ Hi there 👋 I'm Diego
 - 🤔 I started my professional career in IT in 1995, in 1997 I founded 2 small firms in IT. I've been working since 2000 in banking business in Brazil and in 5 European countries as a team leader.
 - 📫 You can find me on LinkedIn. https://www.linkedin.com/in/drudolphdev/
 
+<div align="center">
+  <a href="https://github.com/drudolphdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drudolphdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drudolphdev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 - Here you can find some projects I've been working on:
 - https://drudolphdev.github.io/projectBikcraft/
 - https://drudolphdev.github.io/projetoLobo/
