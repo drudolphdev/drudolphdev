@@ -19,6 +19,7 @@ Hi there 👋 I'm Diego
 
 
 https://drudolphdev.github.io/projectBikcraft/
+https://drudolphdev.github.io/ProjFlexBox_Training/
 https://drudolphdev.github.io/projetoLobo/
 https://drudolphdev.github.io/web1.github.io/
 https://drudolphdev.github.io/WebProjSign/
