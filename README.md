@@ -18,9 +18,10 @@ Hi there 👋 I'm Diego
 <br>
 
 
-https://drudolphdev.github.io/projectBikcraft/
-https://drudolphdev.github.io/ProjFlexBox_Training/
-https://drudolphdev.github.io/projetoLobo/
-https://drudolphdev.github.io/web1.github.io/
-https://drudolphdev.github.io/WebProjSign/
+- Training HTML+CSS+JS: https://drudolphdev.github.io/projectBikcraft/
+- Training FlexBox: https://drudolphdev.github.io/ProjFlexBox_Training/
+- Training Grid Layout: https://drudolphdev.github.io/wildbeast/
+- Training HTML+CSS: https://drudolphdev.github.io/projetoLobo/
+- Training Project: https://drudolphdev.github.io/web1.github.io/
+- Sign in Project: https://drudolphdev.github.io/WebProjSign/
 
