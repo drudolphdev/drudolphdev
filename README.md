@@ -18,7 +18,7 @@ Hi there 👋 I'm Diego
 <br>
 
 
-- Training HTML+CSS+JS: https://drudolphdev.github.io/projectBikcraft/
+- Project FIGMA+HTML+CSS+JS: https://drudolphdev.github.io/projectBikcraft/
 - Training FlexBox: https://drudolphdev.github.io/ProjFlexBox_Training/
 - Training Grid Layout: https://drudolphdev.github.io/wildbeast/
 - Training HTML+CSS: https://drudolphdev.github.io/projetoLobo/
