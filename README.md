@@ -7,6 +7,8 @@ Hi there 👋 I'm Diego
 - 📫 You can find me on LinkedIn. https://www.linkedin.com/in/drudolphdev/
 - 🔑 Here you can directly see some projects I'm working on.
 - 🤔 My private study material for the SCRUM Foundation / Master / Product Owner certification in Portuguese and English. https://drive.google.com/file/d/1OyiBnHGgGir3qtfGpct7i30YDYb5TrVH/view?usp=sharing 
+https://drive.google.com/file/d/11_emAd2ZSKzr8_P3yb7RAvs0klhBy0jL/view?usp=sharing
+
 
 
 <div align="center">
