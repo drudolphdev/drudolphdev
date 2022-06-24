@@ -6,6 +6,8 @@ Hi there 👋 I'm Diego
 - 🤔 I started my professional career in IT in 1995, in 1997 I founded 2 small firms in IT. I've been working since 2000 in banking business in Brazil and in 5 European countries as a team leader.
 - 📫 You can find me on LinkedIn. https://www.linkedin.com/in/drudolphdev/
 - 🔑 Here you can directly see some projects I'm working on.
+- 🤔 My private study material for the SCRUM Foundation / Master / Product Owner certification in Portuguese and English. https://drive.google.com/file/d/1OyiBnHGgGir3qtfGpct7i30YDYb5TrVH/view?usp=sharing 
+
 
 <div align="center">
   <a href="https://github.com/drudolphdev">
